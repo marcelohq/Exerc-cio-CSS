@@ -1,0 +1,34 @@
+.h1{
+    
+    color:rgb(0, 0, 0);
+    padding: 3px;
+    margin:15px;
+    
+}
+
+.link{  
+    color:#000000;
+    text-decoration: none;
+}
+.link:hover{  
+    color:white;
+}
+
+.h1:hover{
+    border-radius: 5px;
+    background-color:blueviolet;
+    color:white;
+   
+}
+.link_comum{
+    color:#000000;
+    text-decoration: none;
+}
+body{
+    background-color: honeydew;
+}
+div{
+    margin: auto 300px;
+    text-align: center; 
+}
+
